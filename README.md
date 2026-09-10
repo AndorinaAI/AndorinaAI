@@ -29,8 +29,6 @@ I come from a **WordPress and creative background**, and I've gradually moved in
 
 I use AI extensively as a **coding assistant** — while I focus on the ideas, specifications, design, architecture, testing and figuring out what should actually exist.
 
-I call it **vibe coding**.
-
 Not because I don't care about how things work.
 
 Quite the opposite.
