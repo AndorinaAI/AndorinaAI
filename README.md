@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:4f46e5&height=180&section=header&text=AndorinaAI&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:4f46e5&height=170&section=header&text=AndorinaAI&fontSize=44&fontColor=ffffff&fontAlignY=38" width="100%"/>
 
-<a href="https://github.com/AndorinaAI">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&pause=1400&color=818CF8&center=true&vCenter=true&width=650&height=45&lines=I+build+tools+I+actually+need.;AI-assisted+development%2C+without+giving+up+control.;Local-first.+Self-hosted.+Privacy-respecting.;Vibe+coding%2C+with+an+unhealthy+amount+of+testing." alt="Typing SVG"/>
-</a>
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&pause=1400&color=818CF8&center=true&vCenter=true&width=650&height=45&lines=Building+things+I+actually+want+to+use.;AI-assisted+development+%7C+Vibe+Coding.;Designing%2C+building%2C+testing%2C+breaking%2C+repeating.;One+project+at+a+time." alt="Typing SVG"/>
+
+<br><br>
 
 <a href="https://github.com/AndorinaAI">
 <img src="https://img.shields.io/badge/GitHub-AndorinaAI-18181B?style=flat-square&logo=github&logoColor=white"/>
@@ -19,218 +19,124 @@
 
 ---
 
-## 👋 Hey, I'm Andorina
+## 👋 Hi everyone
 
-I didn't start out trying to become a developer.
+I like building things.
 
-I started with **problems I wanted to solve**.
+Sometimes that means software. Sometimes automation. Sometimes a completely unnecessary idea that somehow turns into a full project.
 
-I come from a WordPress / creative background and gradually got deeper into software by building the things I couldn't find elsewhere.
+I come from a **WordPress and creative background**, and I've gradually moved into software development by building the things I couldn't find elsewhere.
 
-These days I use AI heavily as a **coding assistant**, but I'm still the one driving the project: defining the problem, designing the architecture, writing specifications, testing edge cases, breaking things and deciding what should actually exist.
+I use AI extensively as a **coding assistant** — while I focus on the ideas, specifications, design, architecture, testing and figuring out what should actually exist.
 
 I call it **vibe coding**.
 
-Not *"AI wrote some code for me."*
+Not because I don't care about how things work.
 
-More like:
+Quite the opposite.
 
-> **Have an idea → build it → try to break it → fix it → repeat.**
-
----
-
-## 🧠 What I'm interested in
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   🤖 AI Agents          🏠 Local-first software              │
-│   🔒 Privacy            🐳 Self-hosting                      │
-│   💬 Automation         🧪 Real-world testing                │
-│   🛡️ Security           🧩 Weirdly useful tools              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-I'm particularly interested in **AI systems that are actually useful in the real world**, without automatically turning everything into a cloud service.
-
-If something can run locally, be controlled by its owner and avoid an unnecessary API bill...
-
-**I'm probably interested.**
+> **I use AI to help me build. I still want to understand what I'm building.**
 
 ---
 
-# 🚀 Current obsession
+## 🧩 What I do
+
+**💡 Ideas**
+I tend to start with a problem, an annoyance, or a thought that begins with *"wouldn't it be cool if..."*
+
+**🎨 Design**
+I care about how things work from the user's point of view, not just whether the code runs.
+
+**🤖 AI-assisted development**
+AI lets me turn ideas into working prototypes and software far faster than I could alone.
+
+**🧪 Testing**
+Then I try very hard to break what I just built.
+
+**🔧 Iteration**
+Build → test → break → understand → fix → repeat.
+
+---
+
+## 🛠️ Tools I use
 
 <div align="center">
 
-## 🐦 Andoriña
+<img src="https://skillicons.dev/icons?i=linux,python,nodejs,docker,git,github,wordpress&theme=dark"/>
 
-### WhatsApp Agent for Hermes
+<br><br>
 
-<a href="https://github.com/AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AndorinaAI&repo=Andorina-WhatsApp-Agent-for-Hermes&theme=dark&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8" alt="Andoriña"/>
-</a>
-
-</div>
-
-**Andoriña** started as a personal need:
-
-> *"I want Hermes to be able to actually manage my WhatsApp."*
-
-Then things escalated.
-
-It is now a **self-hosted WhatsApp automation layer for Hermes Agent**, designed around local control rather than another cloud platform.
-
-### What it can do
-
-|     |                                          |
-| --- | ---------------------------------------- |
-| 💬  | Send WhatsApp messages                   |
-| ⏰   | Schedule messages                        |
-| 📎  | Send files and voice notes               |
-| 👥  | Manage contacts and groups               |
-| 📝  | Keep notes and context                   |
-| 🔔  | Keyword & semantic alerts                |
-| 🎭  | Per-contact personalities                |
-| 🌐  | Remote access through Cloudflare tunnels |
-| 🛡️ | Input/output security pipeline           |
-| 🔐  | Host-controlled permissions              |
-
-### The part I care about most
-
-The LLM **isn't the authority**.
-
-The host decides what the model is allowed to do.
-
-That means things like memory, notes, roles, permissions and operational tools aren't simply handed over to the model.
-
-The architecture is built around a simple idea:
-
-> **The AI can request an action. The host decides whether that action is allowed.**
-
-That's probably the most interesting part of Andoriña to me.
-
-<a href="https://github.com/AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes">
-<img src="https://img.shields.io/badge/→_Explore_Andoriña-4f46e5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 🛠️ My toolbox
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,python,nodejs,docker,git,github,wordpress&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/AI-assisted-4f46e5?style=flat-square"/>
-<img src="https://img.shields.io/badge/Local--first-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI--assisted-4f46e5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vibe%20Coding-1a1a2e?style=flat-square"/>
 <img src="https://img.shields.io/badge/Self--hosted-1a1a2e?style=flat-square"/>
-<img src="https://img.shields.io/badge/Privacy--focused-1a1a2e?style=flat-square"/>
-<img src="https://img.shields.io/badge/Vibe--coding-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Local--first-1a1a2e?style=flat-square"/>
 
 </div>
 
 ---
 
-## 🧪 How I work
+# 🚀 Featured Project
 
-I don't particularly enjoy writing code just for the sake of writing code.
+<a href="https://github.com/AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes">
 
-I enjoy **making systems work**.
+<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=AndorinaAI&repo=Andorina-WhatsApp-Agent-for-Hermes&theme=dark&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8"/>
 
-My process is usually something like:
+</a>
 
-```text
-      ┌──────────┐
-      │  Problem │
-      └────┬─────┘
-           ↓
-      ┌──────────┐
-      │   Idea   │
-      └────┬─────┘
-           ↓
-      ┌──────────┐
-      │  Design  │
-      └────┬─────┘
-           ↓
-      ┌──────────┐
-      │ AI helps │
-      │ build it │
-      └────┬─────┘
-           ↓
-      ┌──────────┐
-      │  BREAK   │◄──────────┐
-      └────┬─────┘           │
-           ↓                 │
-      ┌──────────┐           │
-      │   Test   │───────────┘
-      └────┬─────┘
-           ↓
-      ┌──────────┐
-      │ Actually │
-      │  works   │
-      └──────────┘
-```
+### Andoriña
 
-I tend to care about the annoying questions:
+**WhatsApp automation for Hermes Agent**
 
-**What happens if the input is wrong?**
+Andoriña started as a personal project to solve a problem I had and gradually grew into something much bigger.
 
-**What happens if the AI misunderstands?**
+It adds WhatsApp capabilities to Hermes Agent, turning it into a practical, self-hosted automation tool.
 
-**What happens if a permission is missing?**
+It explores:
 
-**What happens after a restart?**
+* WhatsApp messaging & scheduling
+* Contact and group management
+* Notes and contextual information
+* Keyword & semantic alerts
+* File and voice-note sending
+* Per-contact personalities
+* Remote access
+* Host-controlled permissions
+* Input/output security layers
 
-**What happens when two identifiers refer to the same person?**
+One of the main ideas behind the project is keeping the **host in control**.
 
-**What happens when everything goes wrong at once?**
+The LLM can request an action.
 
-Because that's usually where the interesting problems are.
+**The host decides whether that action is actually allowed.**
+
+<a href="https://github.com/AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes">
+<img src="https://img.shields.io/badge/Explore_Andoriña-4f46e5?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br clear="right"/>
 
 ---
 
-## 📊 GitHub activity
+## 🌱 More projects coming
 
-<div align="center">
+Andoriña is **one of the projects I'm working on**.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AndorinaAI&show_icons=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=9ca3af&count_private=true&include_all_commits=true" />
+There are more ideas, experiments and projects in various stages — some practical, some experimental, and some that probably should have remained ideas.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndorinaAI&layout=compact&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=9ca3af&langs_count=6" />
-
-</div>
-
----
-
-## 🌱 Other things I'm building
-
-Not everything starts as a polished product.
-
-Some things begin as:
-
-> *"Wait... could I make this work?"*
-
-And then suddenly there's a repository, a Docker container, 14 configuration files and a problem I absolutely did not have yesterday.
-
-That's usually where the fun starts.
+I'll add them here as they become real.
 
 ---
 
 <div align="center">
 
-### 💡 Build things you actually want to use.
-
-<br/>
+### Build things you actually want to use.
 
 <a href="https://github.com/AndorinaAI?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_my_repositories-818cf8?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore_my_projects-818cf8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:1a1a2e,100:0d1117&height=90&section=footer" width="100%"/>
 
 </div>
