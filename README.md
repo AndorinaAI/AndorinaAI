@@ -56,7 +56,7 @@ A few things I try to keep in every project:
 ## Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AndorinaAI&show_icons=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=a5b4fc&icon_color=818cf8&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AndorinaAI&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a5b4fc&icon_color=818cf8&text_color=c9d1d9" height="165" alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndorinaAI&layout=compact&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9&langs_count=6" height="165" alt="Top languages"/>
 </div>
 
