@@ -1,140 +1,44 @@
-<div align="center">
+# Jorge G. Formoso · AndorinaAI
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:4f46e5&height=170&section=header&text=AndorinaAI&fontSize=44&fontColor=ffffff&fontAlignY=38" width="100%"/>
+**English** · [Español](#español)
 
-<br>
+Developer from Galicia, Spain. I build tools for streaming, messaging and self-hosted automation, mostly in Python and JavaScript, with a focus on local-first software and keeping the user in control.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&pause=1400&color=818CF8&center=true&vCenter=true&width=650&height=45&lines=Building+things+I+actually+want+to+use.;AI-assisted+development+%7C+Vibe+Coding.;Designing%2C+building%2C+testing%2C+breaking%2C+repeating.;One+project+at+a+time." alt="Typing SVG"/>
+I come from a WordPress and creative background. I develop with AI coding assistants and handle the specification, design, architecture and testing myself.
 
-<br><br>
+## Projects
 
-<a href="https://github.com/AndorinaAI">
-<img src="https://img.shields.io/badge/GitHub-AndorinaAI-18181B?style=flat-square&logo=github&logoColor=white"/>
-</a>
-<a href="https://x.com/AndorinaAI">
-<img src="https://img.shields.io/badge/X-@AndorinaAI-18181B?style=flat-square&logo=x&logoColor=white"/>
-</a>
+| Project | Description |
+|---|---|
+| [**Open Stream Suite**](https://github.com/AndorinaAI/open-stream-suite) | Modular overlays, alerts and widgets for Twitch and OBS Studio, with a control panel and EN/ES interface. |
+| [**Andoriña**](https://github.com/AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes) | WhatsApp manager for Hermes Agent: scheduling, contacts, alerts and host-controlled permissions. [Website](https://andorinaai.github.io/Andorina-WhatsApp-Agent-for-Hermes/) |
+| [**Songifree**](https://github.com/AndorinaAI/songifree) | Music request bot and OBS overlay that connects Spotify to Twitch, Kick and TikTok chats. |
 
-</div>
+## Stack
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-## 👋 Hi everyone
+## Contact
 
-I like building things.
-
-Sometimes that means software. Sometimes automation. Sometimes a completely unnecessary idea that somehow turns into a full project.
-
-I come from a **WordPress and creative background**, and I've gradually moved into software development by building the things I couldn't find elsewhere.
-
-I use AI extensively as a **coding assistant** — while I focus on the ideas, specifications, design, architecture, testing and figuring out what should actually exist.
-
-Not because I don't care about how things work.
-
-Quite the opposite.
-
-> **I use AI to help me build. I still want to understand what I'm building.**
+- X: [@AndorinaAI](https://x.com/AndorinaAI)
+- Questions about a project: open an issue or a discussion in its repository.
 
 ---
 
-## 🧩 What I do
+## Español
 
-**💡 Ideas**
-I tend to start with a problem, an annoyance, or a thought that begins with *"wouldn't it be cool if..."*
+Desarrollador de Galicia, España. Creo herramientas para streaming, mensajería y automatización autoalojada, sobre todo en Python y JavaScript, priorizando el software local y que el usuario mantenga el control.
 
-**🎨 Design**
-I care about how things work from the user's point of view, not just whether the code runs.
+Vengo del mundo de WordPress y del entorno creativo. Desarrollo con asistentes de IA y me encargo yo de la especificación, el diseño, la arquitectura y las pruebas.
 
-**🤖 AI-assisted development**
-AI lets me turn ideas into working prototypes and software far faster than I could alone.
+### Proyectos
 
-**🧪 Testing**
-Then I try very hard to break what I just built.
-
-**🔧 Iteration**
-Build → test → break → understand → fix → repeat.
-
----
-
-## 🛠️ Tools I use
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,python,nodejs,docker,git,github,wordpress&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AI--assisted-4f46e5?style=flat-square"/>
-<img src="https://img.shields.io/badge/Vibe%20Coding-1a1a2e?style=flat-square"/>
-<img src="https://img.shields.io/badge/Self--hosted-1a1a2e?style=flat-square"/>
-<img src="https://img.shields.io/badge/Local--first-1a1a2e?style=flat-square"/>
-
-</div>
-
----
-
-# 🚀 Featured Project
-
-<a href="https://github.com/AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes">
-
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=AndorinaAI&repo=Andorina-WhatsApp-Agent-for-Hermes&theme=dark&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8"/>
-
-</a>
-
-### Andoriña
-
-**WhatsApp automation for Hermes Agent**
-
-Andoriña started as a personal project to solve a problem I had and gradually grew into something much bigger.
-
-It adds WhatsApp capabilities to Hermes Agent, turning it into a practical, self-hosted automation tool.
-
-It explores:
-
-* WhatsApp messaging & scheduling
-* Contact and group management
-* Notes and contextual information
-* Keyword & semantic alerts
-* File and voice-note sending
-* Per-contact personalities
-* Remote access
-* Host-controlled permissions
-* Input/output security layers
-
-One of the main ideas behind the project is keeping the **host in control**.
-
-The LLM can request an action.
-
-**The host decides whether that action is actually allowed.**
-
-<a href="https://github.com/AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes">
-<img src="https://img.shields.io/badge/Explore_Andoriña-4f46e5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br clear="right"/>
-
----
-
-## 🌱 More projects coming
-
-Andoriña is **one of the projects I'm working on**.
-
-There are more ideas, experiments and projects in various stages — some practical, some experimental, and some that probably should have remained ideas.
-
-I'll add them here as they become real.
-
----
-
-<div align="center">
-
-### Build things you actually want to use.
-
-<a href="https://github.com/AndorinaAI?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_my_projects-818cf8?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:1a1a2e,100:0d1117&height=90&section=footer" width="100%"/>
-
-</div>
+- [**Open Stream Suite**](https://github.com/AndorinaAI/open-stream-suite): overlays, alertas y widgets modulares para Twitch y OBS Studio, con panel de control e interfaz EN/ES.
+- [**Andoriña**](https://github.com/AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes): gestor de WhatsApp para Hermes Agent: programación de mensajes, contactos, alertas y permisos controlados por el host.
+- [**Songifree**](https://github.com/AndorinaAI/songifree): bot de peticiones musicales y overlay para OBS que conecta Spotify con los chats de Twitch, Kick y TikTok.
