@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="215" viewBox="0 0 900 215" role="img" aria-label="Idea, spec, build, test, break, fix, repeat">
+  <style>
+    .n{font:600 14px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#e0e7ff}
+    .s{font:400 12px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#8b949e}
+    .ln{stroke:#3b3f6b;stroke-width:2;stroke-dasharray:3 5;animation:d 3s linear infinite}
+    .lp{stroke:#3b3f6b;stroke-width:1.5;fill:none;stroke-dasharray:3 6;animation:d 3s linear infinite}
+    .r{font:500 12px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#6366f1}
+    @keyframes d{to{stroke-dashoffset:-32}}
+  </style>
+  <line x1="104" y1="80" x2="188" y2="80" class="ln"/><line x1="256" y1="80" x2="340" y2="80" class="ln"/><line x1="408" y1="80" x2="492" y2="80" class="ln"/><line x1="560" y1="80" x2="644" y2="80" class="ln"/><line x1="712" y1="80" x2="796" y2="80" class="ln"/>
+  <path d="M830 150 C 830 210, 70 210, 70 150" class="lp"/>
+  <circle r="4" fill="#818cf8"><animateMotion dur="8s" repeatCount="indefinite" path="M70 80 L830 80 L830 150 C 830 210, 70 210, 70 150 Z"/></circle>
+  <text x="450.0" y="204" text-anchor="middle" class="r">repeat</text>
+  <g>
+  <circle cx="70" cy="80" r="30" fill="#0d1117" stroke="#3b3f6b" stroke-width="2"/>
+  <text x="70" y="85" text-anchor="middle" class="n">Idea</text>
+  <text x="70" y="136" text-anchor="middle" class="s">a real problem</text>
+</g><g>
+  <circle cx="222" cy="80" r="30" fill="#0d1117" stroke="#3b3f6b" stroke-width="2"/>
+  <text x="222" y="85" text-anchor="middle" class="n">Spec</text>
+  <text x="222" y="136" text-anchor="middle" class="s">what should exist</text>
+</g><g>
+  <circle cx="374" cy="80" r="30" fill="#0d1117" stroke="#818cf8" stroke-width="2"/>
+  <text x="374" y="85" text-anchor="middle" class="n">Build</text>
+  <text x="374" y="136" text-anchor="middle" class="s">AI-assisted</text>
+</g><g>
+  <circle cx="526" cy="80" r="30" fill="#0d1117" stroke="#3b3f6b" stroke-width="2"/>
+  <text x="526" y="85" text-anchor="middle" class="n">Test</text>
+  <text x="526" y="136" text-anchor="middle" class="s">as a user</text>
+</g><g>
+  <circle cx="678" cy="80" r="30" fill="#0d1117" stroke="#3b3f6b" stroke-width="2"/>
+  <text x="678" y="85" text-anchor="middle" class="n">Break</text>
+  <text x="678" y="136" text-anchor="middle" class="s">on purpose</text>
+</g><g>
+  <circle cx="830" cy="80" r="30" fill="#0d1117" stroke="#3b3f6b" stroke-width="2"/>
+  <text x="830" y="85" text-anchor="middle" class="n">Fix</text>
+  <text x="830" y="136" text-anchor="middle" class="s">and understand</text>
+</g>
+</svg>

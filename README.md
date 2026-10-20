@@ -1,44 +1,98 @@
-# Jorge G. Formoso · AndorinaAI
+<div align="center">
 
-**English** · [Español](#español)
+<img src="assets/banner.svg" width="100%" alt="Jorge G. Formoso · AndorinaAI"/>
 
-Developer from Galicia, Spain. I build tools for streaming, messaging and self-hosted automation, mostly in Python and JavaScript, with a focus on local-first software and keeping the user in control.
+<a href="https://github.com/AndorinaAI"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1600&color=A5B4FC&center=true&vCenter=true&width=640&height=36&lines=Tools+for+Twitch+and+OBS+streamers;WhatsApp+automation+for+Hermes+Agent;Local-first%2C+self-hosted+software;Build+%E2%86%92+test+%E2%86%92+break+%E2%86%92+fix+%E2%86%92+repeat" alt="What I work on"/></a>
 
-I come from a WordPress and creative background. I develop with AI coding assistants and handle the specification, design, architecture and testing myself.
+<a href="https://x.com/AndorinaAI"><img src="https://img.shields.io/badge/@AndorinaAI-0d1117?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://github.com/AndorinaAI?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0d1117?style=flat-square&logo=github&logoColor=white" alt="Repositories"/></a>
+<img src="https://img.shields.io/badge/Galicia,_Spain-0d1117?style=flat-square&logo=googlemaps&logoColor=818cf8" alt="Galicia, Spain"/>
+<img src="https://img.shields.io/badge/EN_·_ES-0d1117?style=flat-square&logo=googletranslate&logoColor=818cf8" alt="English and Spanish"/>
+
+<sub><b>English</b> · <a href="#-español">Español</a></sub>
+
+</div>
+
+## About
+
+I'm Jorge, from Galicia. I came to software from **WordPress and creative work**, and I build tools I need and couldn't find: streaming overlays, messaging automation, small self-hosted utilities.
+
+I use AI as a coding assistant. My part is the problem definition, the specification, the design and architecture, and a lot of testing.
+
+> I use AI to help me build. I still want to understand what I'm building.
 
 ## Projects
 
-| Project | Description |
+<div align="center">
+<a href="https://github.com/AndorinaAI/open-stream-suite"><img src="assets/card-open-stream-suite.svg" width="49%" alt="Open Stream Suite"/></a>
+<a href="https://github.com/AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes"><img src="assets/card-andorina.svg" width="49%" alt="Andoriña"/></a>
+<a href="https://github.com/AndorinaAI/songifree"><img src="assets/card-songifree.svg" width="49%" alt="Songifree"/></a>
+<a href="https://github.com/AndorinaAI?tab=repositories"><img src="assets/card-next.svg" width="49%" alt="Workbench"/></a>
+</div>
+
+## How I work
+
+<div align="center">
+<img src="assets/workflow.svg" width="100%" alt="Idea → Spec → Build → Test → Break → Fix → repeat"/>
+</div>
+
+A few things I try to keep in every project:
+
+| | |
 |---|---|
-| [**Open Stream Suite**](https://github.com/AndorinaAI/open-stream-suite) | Modular overlays, alerts and widgets for Twitch and OBS Studio, with a control panel and EN/ES interface. |
-| [**Andoriña**](https://github.com/AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes) | WhatsApp manager for Hermes Agent: scheduling, contacts, alerts and host-controlled permissions. [Website](https://andorinaai.github.io/Andorina-WhatsApp-Agent-for-Hermes/) |
-| [**Songifree**](https://github.com/AndorinaAI/songifree) | Music request bot and OBS overlay that connects Spotify to Twitch, Kick and TikTok chats. |
+| 🏠 **Local-first** | Runs on your machine; data stays with you unless you decide otherwise. |
+| 🛡️ **Host in control** | An AI can request an action. The host decides whether it is allowed. |
+| 🌍 **Bilingual** | Interfaces and docs in English and Spanish. |
+| 🔍 **Transparent** | Open about how things are built, including the use of AI. |
 
-## Stack
+## Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+<div align="center">
 
-## Contact
+<img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,linux,docker,git,github,wordpress,obs,vscode&perline=12" alt="Python, JavaScript, HTML, CSS, Node.js, Linux, Docker, Git, GitHub, WordPress, OBS, VS Code"/>
 
-- X: [@AndorinaAI](https://x.com/AndorinaAI)
-- Questions about a project: open an issue or a discussion in its repository.
+</div>
+
+## Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AndorinaAI&show_icons=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=a5b4fc&icon_color=818cf8&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndorinaAI&layout=compact&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9&langs_count=6" height="165" alt="Top languages"/>
+</div>
 
 ---
 
-## Español
+<details>
+<summary><b>🇪🇸 Español</b></summary>
 
-Desarrollador de Galicia, España. Creo herramientas para streaming, mensajería y automatización autoalojada, sobre todo en Python y JavaScript, priorizando el software local y que el usuario mantenga el control.
+<br/>
 
-Vengo del mundo de WordPress y del entorno creativo. Desarrollo con asistentes de IA y me encargo yo de la especificación, el diseño, la arquitectura y las pruebas.
+### Sobre mí
+
+Soy Jorge, de Galicia. Llegué al software desde **WordPress y el trabajo creativo**, y construyo las herramientas que necesito y no encuentro: overlays para streaming, automatización de mensajería y pequeñas utilidades autoalojadas.
+
+Uso la IA como asistente de programación. Mi parte es definir el problema, la especificación, el diseño y la arquitectura, y probar mucho.
+
+> Uso la IA para ayudarme a construir. Sigo queriendo entender lo que construyo.
 
 ### Proyectos
 
-- [**Open Stream Suite**](https://github.com/AndorinaAI/open-stream-suite): overlays, alertas y widgets modulares para Twitch y OBS Studio, con panel de control e interfaz EN/ES.
-- [**Andoriña**](https://github.com/AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes): gestor de WhatsApp para Hermes Agent: programación de mensajes, contactos, alertas y permisos controlados por el host.
-- [**Songifree**](https://github.com/AndorinaAI/songifree): bot de peticiones musicales y overlay para OBS que conecta Spotify con los chats de Twitch, Kick y TikTok.
+- [**Open Stream Suite**](https://github.com/AndorinaAI/open-stream-suite): overlays, alertas y widgets para Twitch y OBS Studio, con panel de control local.
+- [**Andoriña**](https://github.com/AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes): gestor de WhatsApp para Hermes Agent. El LLM solicita acciones; el host decide.
+- [**Songifree**](https://github.com/AndorinaAI/songifree): peticiones musicales desde el chat: Spotify para Twitch, Kick y TikTok, con overlay.
+
+### Cómo trabajo
+
+Idea → especificación → desarrollo (con IA) → pruebas → romperlo a propósito → arreglarlo → repetir.
+
+- 🏠 **Local primero:** se ejecuta en tu equipo; los datos se quedan contigo salvo que decidas lo contrario.
+- 🛡️ **El host manda:** una IA puede pedir una acción; el host decide si se permite.
+- 🌍 **Bilingüe:** interfaces y documentación en inglés y español.
+- 🔍 **Transparente:** abierto sobre cómo se construye todo, incluido el uso de IA.
+
+</details>
+
+<div align="center">
+<sub><i>Andoriña</i> is Galician for <i>swallow</i>.</sub>
+<img src="assets/footer.svg" width="100%" alt=""/>
+</div>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="110" viewBox="0 0 1280 110">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#26206b"/><stop offset=".5" stop-color="#15152b"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+    <symbol id="sw" viewBox="0 0 100 60"><path d="M50 20c3 0 5.5 2.6 5.5 6l39.5-15c-9 12-21 19.5-36 22.5L64 58 50 41 36 58l5-24.5C26 30.5 14 23 5 11l39.5 15c0-3.4 2.5-6 5.5-6z"/></symbol>
+    <style>.f{animation:f 14s linear infinite}@keyframes f{from{transform:translateX(-120px)}to{transform:translateX(1400px)}}</style>
+  </defs>
+  <path d="M0 40 C 220 10, 420 70, 640 40 S 1060 10, 1280 40 V110 H0Z" fill="url(#g)"/>
+  <g class="f" fill="#a5b4fc" fill-opacity=".8"><use href="#sw" x="0" y="8" width="40" height="24"/></g>
+</svg>

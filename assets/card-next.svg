@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="200" viewBox="0 0 420 200" role="img" aria-label="Workbench">
+  <style>
+    .h{font:700 21px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#f0f6fc}
+    .d{font:400 14.5px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#9ca3af}
+    .tag{font:500 12px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#e5e7eb}
+    .st{font:600 11.5px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#818cf8}
+    .bar{animation:grow 1.2s ease-out both}
+    @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+  </style>
+  <clipPath id="c"><rect x="1" y="1" width="418" height="198" rx="14"/></clipPath>
+  <rect x="1" y="1" width="418" height="198" rx="14" fill="#0d1117" stroke="#818cf8" stroke-opacity=".5" stroke-dasharray="6 6"/>
+  <rect class="bar" clip-path="url(#c)" x="1" y="1" width="418" height="4" fill="#818cf8" style="transform-origin:1px 1px"/>
+  <g transform="translate(24 30)" color="#818cf8"><rect width="40" height="40" rx="10" fill="#818cf8" fill-opacity=".12"/><svg x="8" y="8" width="24" height="24" viewBox="0 0 24 24"><path d="M9 3h6M10 3v6l-5 9a2 2 0 0 0 1.8 3h10.4A2 2 0 0 0 19 18l-5-9V3" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M7.5 15h9" stroke="currentColor" stroke-width="2"/></svg></g>
+  <text x="78" y="57" class="h">Workbench</text>
+  <rect x="346" y="36" width="50" height="22" rx="11" fill="none" stroke="#818cf8" stroke-opacity=".6"/>
+  <text x="371.0" y="51" text-anchor="middle" class="st">SOON</text>
+  <text x="24" y="100" class="d">Experiments and smaller tools in progress.</text><text x="24" y="122" class="d">They show up here once they are usable.</text>
+  <rect x="24" y="150" width="51" height="24" rx="12" fill="#818cf8" fill-opacity=".12" stroke="#818cf8" stroke-opacity=".35"/><text x="50" y="166.5" text-anchor="middle" class="tag">ideas</text><rect x="83.0" y="150" width="88" height="24" rx="12" fill="#818cf8" fill-opacity=".12" stroke="#818cf8" stroke-opacity=".35"/><text x="127" y="166.5" text-anchor="middle" class="tag">prototypes</text>
+</svg>

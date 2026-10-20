@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Jorge G. Formoso · AndorinaAI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#15152b"/>
+      <stop offset="1" stop-color="#26206b"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.78" cy="0.35" r="0.55">
+      <stop offset="0" stop-color="#6366f1" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#818cf8" fill-opacity="0.12"/>
+    </pattern>
+    <symbol id="swallow" viewBox="0 0 100 60">
+      <path d="M50 20c3 0 5.5 2.6 5.5 6l39.5-15c-9 12-21 19.5-36 22.5L64 58 50 41 36 58l5-24.5C26 30.5 14 23 5 11l39.5 15c0-3.4 2.5-6 5.5-6z"/>
+    </symbol>
+    <style>
+      .t1{font:700 54px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#f8fafc;letter-spacing:-0.5px}
+      .t2{font:500 22px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#c7d2fe}
+      .mono{font:500 16px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#818cf8}
+      .small{font:400 15px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#94a3b8}
+      .trail{stroke:#818cf8;stroke-opacity:.35;stroke-width:1.5;fill:none;stroke-dasharray:4 8;animation:dash 6s linear infinite}
+      @keyframes dash{to{stroke-dashoffset:-120}}
+      .b1{animation:fly1 7s ease-in-out infinite}
+      .b2{animation:fly2 9s ease-in-out infinite}
+      .b3{animation:fly3 8s ease-in-out infinite}
+      @keyframes fly1{0%,100%{transform:translate(0,0)}50%{transform:translate(-14px,-10px)}}
+      @keyframes fly2{0%,100%{transform:translate(0,0)}50%{transform:translate(10px,8px)}}
+      @keyframes fly3{0%,100%{transform:translate(0,0)}50%{transform:translate(-8px,12px)}}
+      .cursor{animation:blink 1.1s steps(1) infinite}
+      @keyframes blink{50%{opacity:0}}
+    </style>
+  </defs>
+  <rect width="1280" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="18" fill="url(#dots)"/>
+  <rect width="1280" height="320" rx="18" fill="url(#glow)"/>
+
+  <path class="trail" d="M640 270 C 760 250, 820 140, 930 150 S 1100 80, 1230 60"/>
+  <g class="b1" fill="#e0e7ff"><use href="#swallow" x="1010" y="70" width="110" height="66"/></g>
+  <g class="b2" fill="#a5b4fc" fill-opacity="0.85"><use href="#swallow" x="890" y="150" width="70" height="42"/></g>
+  <g class="b3" fill="#818cf8" fill-opacity="0.6"><use href="#swallow" x="1150" y="190" width="46" height="28"/></g>
+
+  <text x="72" y="96" class="mono">~/AndorinaAI <tspan fill="#64748b">$</tspan> whoami<tspan class="cursor" fill="#c7d2fe">▍</tspan></text>
+  <text x="70" y="168" class="t1">Jorge G. Formoso</text>
+  <text x="72" y="210" class="t2">Streaming tools · Messaging · Self-hosted automation</text>
+  <text x="72" y="262" class="small">Galicia, Spain   ·   Python · JavaScript · Linux   ·   EN / ES</text>
+</svg>
